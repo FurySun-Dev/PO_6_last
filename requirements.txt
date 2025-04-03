@@ -1,0 +1,4 @@
+selenium
+pytest
+requests
+pytest tests/test_ui.py --maxfail=1 --disable-warnings -q
